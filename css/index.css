@@ -1,12 +1,7 @@
 .galeria{
     display: flex;
+    flex-wrap: wrap;
 }
 .imgg{
     width: 300px;
-}
-
-
-.imgg:hover {
-    flex-wrap: wrap;
-    width: 50vw;
 }
